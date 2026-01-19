@@ -1,0 +1,4 @@
+{
+  "/api/dashboard/school-admin/route": "app/api/dashboard/school-admin/route.js",
+  "/dashboard/settings/page": "app/dashboard/settings/page.js"
+}
